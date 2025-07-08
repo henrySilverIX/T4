@@ -9,7 +9,7 @@ Softwares e bibliotecas sugeridos:
 <li>Java</li>
 </ul>
 
-Versão do node usada: v18.20.8
+Versão do node usada: v18.20.8<br>
 Versão do npm usada: 10.8.2
 
 Comandos para rodar o projeto: <br>
